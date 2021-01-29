@@ -15,6 +15,7 @@ public class A {
 	}
 
 	public void setMsg(String msg) {
+		//Demo
 		System.out.println("A-->setMsg()");
 		this.msg = msg;
 	}
